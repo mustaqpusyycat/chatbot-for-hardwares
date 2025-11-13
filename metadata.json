@@ -1,0 +1,5 @@
+{
+  "name": "Hardware Helper AI",
+  "description": "An AI-powered chatbot designed to provide instant assistance, explanations, and troubleshooting guidance for hardware components, Arduino, sensors, and embedded systems. It acts as a virtual lab assistant for students and enthusiasts.",
+  "requestFramePermissions": []
+}
